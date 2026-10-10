@@ -1,0 +1,11 @@
+# Local configuration and API keys
+local.properties
+**/local.properties
+
+# Build output
+.gradle/
+build/
+**/build/
+
+# IDE local files
+.idea/workspace.xml
